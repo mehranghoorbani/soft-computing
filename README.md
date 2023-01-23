@@ -1,2 +1,4 @@
-# soft-computing
-This repository created for soft computin lesson in school of civil faculty in Iran University of Science &amp; Technology from 
+# Soft Computing
+Hello dear visitor
+This repository created for soft computing lesson in school of civil engineering faculty in Iran University of Science & Technology
+Special thank for my teacher Prof.Dr. M.Ilchi
